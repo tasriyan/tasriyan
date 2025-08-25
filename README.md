@@ -1,6 +1,6 @@
 ## Hey there, I'm Tatyana (Tanya) 👋
 
-**Senior .NET Developer | Systems Architect | Recovering Rock Star Coder**
+**Systems Architect**
 
 I build tools that address real pain points I've experienced as a tech lead and systems architect. Most of my repositories solve problems I got tired of dealing with manually.
 
