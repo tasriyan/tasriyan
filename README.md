@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there, I'm Tatyana (Tanya) 👋
 
-<!--
-**tasriyan/tasriyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior .NET Developer | Systems Architect**
 
-Here are some ideas to get you started:
+I build tools that address real pain points I've experienced as a tech lead and systems architect. Most of my repositories solve problems I got tired of dealing with manually.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+- Developer productivity tools for enterprise environments
+- AI agents that might actually be useful (built with Python - a nice break from .NET)
+- Legacy system integration helpers
+
+### My approach
+Business value > technical purity. I take a pragmatic approach to modernizing legacy applications rather than full-rewrite, big bang approaches. My tools are built for other tech leads facing similar challenges with legacy code and weak development teams.
+
+### When I'm not coding
+🎨 Occasional art projects  
+🌱 Gardening (I'd rather be debugging plants than debugging legacy code, I tell you that!)
+
+---
+
+*If you're dealing with enterprise development challenges, you're in the right place. If you're looking for cutting-edge algorithmic wizardry, you might want to keep browsing.*
