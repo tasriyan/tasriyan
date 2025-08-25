@@ -15,7 +15,3 @@ Business value > technical purity. I take a pragmatic approach to modernizing le
 ### When I'm not coding
 🎨 Occasional art projects  
 🌱 Gardening (I'd rather be debugging plants than debugging legacy code, I tell you that!)
-
----
-
-*If you're dealing with enterprise development challenges, you're in the right place. If you're looking for cutting-edge algorithmic wizardry, you might want to keep browsing.*
