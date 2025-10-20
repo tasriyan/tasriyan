@@ -10,7 +10,7 @@ With these tools I hope I can help other tech leads facing challenges with legac
 **[Propel Feature Flags Platform](https://github.com/Treiben)**
 Complete, self-hosted feature flag system for .NET
 - **[Propel Dashboard](https://github.com/Treiben/propel-dashboard)** - Web UI for managing flags (React + .NET, single Docker container)
-- **[Propel .NET SDK](https://github.com/Treiben/propel-feature-flags)** - Type-safe feature flags (.NET Framework 4.7.2 through .NET 9)
+- **[Propel .NET SDK](https://github.com/Treiben/propel-feature-flags-csharp)** - Type-safe feature flags (.NET Framework 4.7.2 through .NET 9)
 - **[Propel CLI](https://github.com/Treiben/propel-cli)** - Command-line management and CI/CD automation
 
 *Philosophy:* Strongly-typed flags that auto-deploy from code. No magic strings, no config drift, no additional flag deployment, simple and separate configuration for multiple evaluation options. Legacy frameworks support.
