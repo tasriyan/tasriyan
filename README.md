@@ -5,9 +5,9 @@
 I've worked as a systems architect in enterprise environments long enough to know the common pain points: my libraries are "guardrail architecture" - designed to improve code reliability and reduce boilerplate.
 With these tools I hope I can help other tech leads facing challenges with legacy code or weak development teams.
 
-### 🎯 Featured Projects
+### Featured Projects
 
-**[Propel Feature Flags Platform](https://github.com/Treiben)**
+**[<img src="./.github/assets/propel-flags3.png" width="46" height="46" align="center"/> Propel Feature Flags Platform](https://github.com/Treiben)** 
 Complete, self-hosted feature flag system for .NET
 - **[Propel Dashboard](https://github.com/Treiben/propel-dashboard)** - Web UI for managing flags (React + .NET, single Docker container)
 - **[Propel .NET SDK](https://github.com/Treiben/propel-feature-flags-csharp)** - Type-safe feature flags (.NET Framework 4.7.2 through .NET 9)
