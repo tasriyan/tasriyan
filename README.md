@@ -22,7 +22,7 @@ Production-ready utilities that enforce best practices at compile-time
 - **[Knara.UtcStrict](https://github.com/tasriyan/Knara.UtcStrict)** - Forces UTC DateTime usage to prevent timezone bugs
 - Other Knara packages: Tenant isolation, source generators, enterprise patterns
 
-*Philosophy:* Strongly-typed flags that auto-deploy from code. No magic strings, no config drift. Multiple evaluation modes, legacy framework support, single deployment step.
+*Philosophy:* Opinionated libraries enforcing and tightening rules during compile time for improved developer productivity and code reliability.
 
 ### Currently working on
 - Feature flag platform expansion (TypeScript and Java SDKs coming)
