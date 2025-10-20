@@ -7,7 +7,7 @@ With these tools I hope I can help other tech leads facing challenges with legac
 
 ### Featured Projects
 
-**[<img src="./.github/assets/propel-flags3.png" width="46" height="46" align="center"/> Propel Feature Flags Platform](https://github.com/Treiben)** 
+**<img src="./.github/assets/propel-flags3.png" width="46" height="46" align="center"/> [Propel Feature Flags Platform](https://github.com/Treiben)** 
 
 Complete, self-hosted feature flag system for .NET
 - **[Propel Dashboard](https://github.com/Treiben/propel-dashboard)** - Web UI for managing flags (React + .NET, single Docker container)
@@ -16,7 +16,7 @@ Complete, self-hosted feature flag system for .NET
 
 *Philosophy:* Strongly-typed flags that auto-deploy from code. No magic strings, no config drift. Multiple evaluation modes, legacy framework support, single deployment step.
 
-**[<img src="./.github/assets/knara-lyre12.png" width="46" height="46" align="center"/> Knara Libraries](https://github.com/tasriyan)**
+**<img src="./.github/assets/knara-lyre12.png" width="46" height="46" align="center"/> [Knara Libraries](https://github.com/tasriyan)**
 
 Production-ready utilities that enforce best practices at compile-time
 - **[Knara.UtcStrict](https://github.com/tasriyan/Knara.UtcStrict)** - Forces UTC DateTime usage to prevent timezone bugs
