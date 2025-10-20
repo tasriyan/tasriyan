@@ -14,7 +14,7 @@ Complete, self-hosted feature flag system for .NET
 - **[Propel .NET SDK](https://github.com/Treiben/propel-feature-flags-csharp)** - Type-safe feature flags (.NET Framework 4.7.2 through .NET 9)
 - **[Propel CLI](https://github.com/Treiben/propel-cli)** - Command-line management and CI/CD automation
 
-*Philosophy:* Strongly-typed flags that auto-deploy from code. No magic strings, no config drift, no additional flag deployment, simple and separate configuration for multiple evaluation options. Legacy frameworks support.
+*Philosophy:* Strongly-typed flags that auto-deploy from code. No magic strings, no config drift. Multiple evaluation modes, legacy framework support, single deployment step.
 
 **[<img src="./.github/assets/knara-lyre12.png" width="46" height="46" align="center"/> Knara Libraries](https://github.com/tasriyan)**
 
