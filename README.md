@@ -2,8 +2,8 @@
 
 **Systems Architect**
 
-I've worked as a systems architect in enterprise environments long enough to know the common pain points: my libraries are "guardrail architecture" - designed to improve code reliability and reduce boilerplate.
-With these tools I hope I can help other tech leads facing challenges with legacy code or weak development teams.
+I've worked as a systems architect in enterprise environments long enough to know the common pain points; my libraries are "guardrail architecture" - designed to improve code reliability and reduce boilerplate.
+I hope my tools can help other tech leads facing challenges with legacy code or weak development teams.
 
 ### Featured Projects
 
